@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for hospital management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anusha Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.9.2"
+  }
+}
